@@ -7,7 +7,7 @@ Caution:
 
 1) Find the PID from process and kill it ->> lsof -i :4444
 2) Kill cmd -->> e.g kill 4614
-3) Run the java class
+3) Run IT
 
 Download geckodriver -->> http://github.com/mozilla/geckodriver/releases
 
